@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pastry Delights</title>CURIOUS BRING YOU IN, QUALITY BRINGS YOU BACK">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to guinea Pastryville</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="menu.html">Menu</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>About Us</h2>
+            <p>We offer the finest pastries in town, made with love and the freshest ingredients.</p>
+        </section>
+        <section>
+            <h2>Visit Us</h2>
+            <p>1324 Al munar Street<br>Pastryville, Foodland</p>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Pastry Delights. All rights reserved.</p>
+    </footer>
+</body>
+</html>
